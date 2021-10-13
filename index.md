@@ -1,9 +1,9 @@
 ---
-title: Muzzle | PikoStudios
+title: Muzzle by PikoStudios
 feature_text: |
   ## Muzzle
   Developed by [PikoStudios](https://pikostudios.dev)
-feature_image: "https://picsum.photos/1300/400?image=989"
+<!--feature_image: "https://picsum.photos/1300/400?image=989"-->
 excerpt: "Muzzle is a easy-to-use, C99 Game Framework inspired by [raylib](https://raylib.com). It is really easy to set-up and compile, it can be done in 5 easy steps"
 ---
 
